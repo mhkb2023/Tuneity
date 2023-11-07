@@ -6,7 +6,7 @@ export interface IPlaylist extends IBaseDetails {
     count: number;
     duration: string;
     tracks: ITrack[];
-
+    
     addTrack(track: ITrack): void;
     removeTrackById(): void;
 }

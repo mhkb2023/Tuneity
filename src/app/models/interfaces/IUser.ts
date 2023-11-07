@@ -12,5 +12,4 @@ export interface IUser {
     removePlaylistById(playlistId: string): void;
     addLikedTrack(trackId: string): void;
     removeLikedTrackById(trackId: string): void;
-
 }
