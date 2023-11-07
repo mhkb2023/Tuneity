@@ -1,0 +1,15 @@
+Setup firebase
+Implement sign in with google and sign out
+Implement admin screen to add Artist, add Album, add song
+Implement user song request submission form
+Implement user song contribution form
+Implement list to display requests and submissions
+Implement song approval and rejection process
+Implement user dashboard/home (logged in vs not logged in)
+Implement player
+Implement browse song section - basic
+Implement liked, recently played, album, playlist section skeleton
+Implement artist section skeleton
+Implement your library section
+Implement caching
+Implement empty screens while developing empty section - seperate component?
